@@ -1,4 +1,4 @@
-# Computes approximate one- or two-sided approximate confidence intervals for true R2
+# Computes approximate one- or two-sided confidence intervals for true R-squared
 # Package MBESS is required in order to access the non-central F distribution
 # Apply on result of lm
 # 
